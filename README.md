@@ -1,8 +1,7 @@
 # OSWAP-Top-10-2021
-The Open Web Application Security Project top ten list 2021.
+The Open Web Application Security Project top ten list 2021.<br>
 <br> Hi, I will be listing top 10 vulnerabilities in year 2021 and a breif description on them. 
 Consider this as notes for self studying and may not necessarily be my own content.<br>
-
 <br>1.<u><b>A01:2021-Broken Access Control: </b></u><br>
   Access control vulnerabilities include privilege escalation, malicious URL modification, access control bypass, CORS misconfiguration, and tampering with primary keys <br>
 <br>2.<u><b>A02:2021-Cryptographic Failures:</b></u> 
