@@ -21,6 +21,6 @@ Consider this as notes for self studying and may not necessarily be my own conte
 <br>9.<u><b>A09:2021-Security Logging and Monitoring Failure:</b></u> <br> 
   Issues that can hamper the analysis of a data breach or other form of attacek, including logging problems, failing to record security-relevant information feeds, or only         logging data locally come under this category.<br> 
 <br>10.<u><b>A10:2021-Server-Side- Request Forgery:</b></u> <br>
-  SSRF vulnerabilities occur when a server does not validate user-submitted URLs when they fetch remote resources. OWASP says that the adoption of cloud service and increasingly   complex architectures have ramped up the severity of SSRF attacks<br>
+  SSRF vulnerabilities occur when a server does not validate user-submitted URLs when they fetch remote resources. OWASP says that the adoption of cloud service and increasingly   complex architectures have ramped up the severity of SSRF attacks.<br>
   
   
